@@ -1,0 +1,6 @@
+.table {
+    margin: auto;
+    width:1100px;
+    z-index: 1;
+    position: relative;
+}

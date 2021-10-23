@@ -1,0 +1,10 @@
+.video__iframes {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center; 
+    position: relative;
+    top: 30px;
+}
+.first-video {
+    margin-right: 20px;
+}

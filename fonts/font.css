@@ -1,0 +1,22 @@
+@font-face {
+    src: url(../fonts/inter/Inter-Regular.woff) format('woff'),
+         url(../fonts/inter/Inter-Regular.woff2) format('woff2');
+    font-family:"Inter";
+    font-weight: normal;        
+}
+
+@font-face {
+    src: url(../A:\Code\Praktikum\First_Project\fp_root\fonts\Inter\Inter-Bold.woff) format('woff'),
+    url(../A:\Code\Praktikum\First_Project\fp_root\fonts\Inter\Inter-Bold.woff2) format('woff2');
+    font-family: 'Inter-Bold';
+    font-weight: bold;
+}
+
+
+
+
+.two-columns_paragraph {
+    margin-bottom: 30px;
+    line-height: 34px;
+    font-size:24px;
+}
