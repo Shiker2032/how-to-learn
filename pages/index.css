@@ -1,4 +1,6 @@
-
+@import url(../fonts/font.css);
+@import url(../vendor/normalize.css);
+@import url(../styles/style.css);
 
 
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
@@ -91,4 +93,4 @@
 @import url(../blocks/logo/_place/logo_place-footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 
-@import url(../vendor/normalize.css);
+
