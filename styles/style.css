@@ -46,11 +46,10 @@
     background-color: #F2F2F2;  
     padding: 160px 0 80px;
     position: relative;
-    z-index: -1;
+    z-index: 0;
 }
 .feinman {
-    margin: 0 auto;    
-   
+    margin: 0 auto;   
     min-height: 890px;
     position: relative;
     background-color: #F2F2F2;
