@@ -72,13 +72,12 @@
 /*table*/
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
-@import url(../blocks/table/_text/table_text.css);
-@import url(../blocks/table/_text/_theme/table_text_theme_dark.css);
-@import url(../blocks/table/_heading/table_heading.css);
-@import url(../blocks/table/_cell/table_cell.css);
+@import url(../blocks/table/__text/table__text.css);
+@import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/_row/table_row.css);
 @import url(../blocks/table/_row/_margin/table_row_margin.css);
-@import url(../blocks/table/_cell/_width/table_cell_width.css);
+@import url(../blocks/table/__cell/_width/table__cell_width.css);
 /*_cards*/
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__description/cards__description.css);
