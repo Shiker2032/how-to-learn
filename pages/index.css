@@ -3,6 +3,9 @@
 @import url(../styles/style.css);
 @import url(../fonts/font.css);
 
+/*rotation*/
+@import url(../blocks/rotation/rotation.css);
+
 /*header*/
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/_link/header_link.css);
@@ -96,5 +99,3 @@
 /*_link*/
 @import url(../blocks/link/link.css);
 @import url(../blocks/link/_theme/link_theme_white.css);
-/*animation*/
-@import url(../blocks/animation/animation__rotation.css);
