@@ -1,8 +1,5 @@
 .table_row {
-    display: flex;
-    margin-top: 60px;
-    margin-bottom: 60px;
-    justify-content: space-between;    
+    
 }
 .table_row:last-child {
     margin-bottom: 0;
