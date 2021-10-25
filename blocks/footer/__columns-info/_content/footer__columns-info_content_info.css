@@ -1,4 +1,5 @@
 .footer__columns_content_info {
     display: flex;
     flex-flow: column;      
+    margin-left: auto;
 }
