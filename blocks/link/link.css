@@ -4,6 +4,6 @@ transition: 0.3s linear;
 }
 
 .link:hover {    
-   color: #8db9f5
+   opacity: 0.5;
 }
 
