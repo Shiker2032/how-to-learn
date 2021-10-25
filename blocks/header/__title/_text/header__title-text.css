@@ -1,3 +1,7 @@
 .header__title_text {
+    width: 730px;
+    margin-left: 64px;
+    line-height: 96px;
+    font-size: 102px;
     text-align: left;
 }
