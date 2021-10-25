@@ -45,7 +45,7 @@
 @import url(../blocks/khan/khan.css);
 /*kaufman*/
 @import url(../blocks/kaufman/kaufman.css);
-@import url(../blocks/kaufman/__triangle-pic/kaufman__triangle-pic.css);
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 /*resources*/
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
