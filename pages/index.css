@@ -58,7 +58,7 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
-@import url(../blocks/footer/__column-links/_item/footer__column_links_item.css);
+@import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_info.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_social.css);
