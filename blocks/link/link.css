@@ -1,6 +1,6 @@
 .link {
-text-decoration: none; 
-transition: 0.3s linear;
+  text-decoration: none; 
+  transition: 0.3s linear;
 }
 
 .link:hover {    
