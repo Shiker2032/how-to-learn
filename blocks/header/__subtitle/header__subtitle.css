@@ -1,4 +1,5 @@
 .header__subtitle {
+    z-index: 1;
     margin: 0;
     width: 388px;
     position: absolute;

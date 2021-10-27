@@ -1,4 +1,5 @@
 .header__title {   
+    z-index: 1;
     width: 730px;
     margin-left: 64px;
     line-height: 96px;
