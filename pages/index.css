@@ -20,8 +20,8 @@
 /*techniques*/
 @import url(../blocks/techniques/techniques.css);
 /*video*/
-@import url(../blocks/video/__iframe/iframe.css);
-@import url(../blocks/video/__iframes/__iframes.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/video.css);
 /*Oakley*/
 @import url(../blocks/oakley/oakley.css);
