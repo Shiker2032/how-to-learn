@@ -1,7 +1,6 @@
-@import url(../pages/page.css);
 @import url(../vendor/normalize.css);
-@import url(../styles/style.css);
 @import url(../fonts/font.css);
+@import url(../pages/page.css);
 
 /*rotation*/
 @import url(../blocks/rotation/rotation.css);
