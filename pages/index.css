@@ -76,9 +76,10 @@
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/_row/table_row.css);
 @import url(../blocks/table/_row/_margin/table_row_margin.css);
-@import url(../blocks/table/__cell/_width/table__cell_width.css);
+
 /*_cards*/
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__description/cards__description.css);
