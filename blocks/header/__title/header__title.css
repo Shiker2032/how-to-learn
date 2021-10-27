@@ -1,8 +1,7 @@
 .header__title {   
-    max-width: min-content;
     width: 730px;
     margin-left: 64px;
     line-height: 96px;
     font-size: 102px;
-    font-weight: bold;     
+    text-align: left;
 }
