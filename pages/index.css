@@ -4,7 +4,6 @@
 
 /*rotation*/
 @import url(../blocks/rotation/rotation.css);
-
 /*header*/
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
@@ -43,7 +42,6 @@
 @import url(../blocks/khan/__title/khan__title.css);
 @import url(../blocks/khan/__author/khan__author.css);
 @import url(../blocks/khan/__container/khan__container.css);
-
 /*kaufman*/
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
@@ -65,8 +63,6 @@
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
 
-
-
 /*table*/
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
@@ -74,7 +70,6 @@
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
-
 /*_cards*/
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__description/cards__description.css);
