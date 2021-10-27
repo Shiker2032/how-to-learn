@@ -18,7 +18,7 @@
 /*description*/
 @import url(../blocks/description/description.css);
 /*techniques*/
-@import url(../blocks/techiques/techniques.css);
+@import url(../blocks/techniques/techniques.css);
 /*video*/
 @import url(../blocks/video/__iframe/iframe.css);
 @import url(../blocks/video/__iframes/__iframes.css);
