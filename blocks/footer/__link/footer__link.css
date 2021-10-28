@@ -1,6 +1,8 @@
 .footer__link {
     color:white;
     margin-bottom: 10px;
+    line-height: 18px;
+    font-size: 18px;
 }
 
 .footer__link:last-of-type {
