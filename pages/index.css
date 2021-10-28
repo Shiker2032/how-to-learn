@@ -27,7 +27,7 @@
 @import url(../blocks/feinman/feinman.css);
 @import url(../blocks/feinman/__title/feinman__title.css);
 @import url(../blocks/feinman/__subtitle/feinman__subtitle.css);
-@import url(../blocks/feinman/__feinman-pic/feinman__feinman-pic.css);
+@import url(../blocks/feinman/__pic/feinman__pic.css);
 @import url(../blocks/feinman/__link/feinman__link.css);
 /*digits*/
 @import url(../blocks/digits/digits.css);
